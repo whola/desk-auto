@@ -1,0 +1,12 @@
+[ 
+  {"name": "Indian Institute of Technology (IIT), Madras", "code": "IITM"}, 
+  {"name": "Indian Institute of Technology (IIT), Bombay", "code": "IITB"}, 
+  {"name": "Indian Institute of Technology (IIT), Delhi", "code": "IITD"}, 
+  {"name": "Indian Institute of Technology (IIT), Kharagpur", "code": "IITKGP"}, 
+  {"name": "Indian Institute of Technology (IIT), Kanpur", "code": "IITK"},
+  {"name": "Indian Institute of Management (IIM), Ahmedabad", "code": "IIMA"}, 
+  {"name": "Indian Institute of Management (IIM), Bengaluru", "code": "IIMB"}, 
+  {"name": "Indian Institute of Management (IIM), Calcutta, Delhi", "code": "IIMC"}, 
+  {"name": "Indian School of Business (ISB)", "code": "ISB"}, 
+  {"name": "Indian Institute of Management (IIM), Lucknow", "code": "IIML"}
+]
