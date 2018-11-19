@@ -1,1 +1,10 @@
-[ 'Bangalore', 'Mysore', 'Mumbai', 'Chennai', 'Hyderabad' ]
+[ 
+  {"name": "Bangalore", "code": "IITM"}, 
+  {"name": "Mumbai", "code": "IITB"}, 
+  {"name": "Delhi", "code": "IITD"}, 
+  {"name": "Kharagpur", "code": "IITKGP"}, 
+  {"name": "Kanpur", "code": "IITK"},
+  {"name": "Ahmedabad", "code": "IIMA"}, 
+  {"name": "Calcutta", "code": "IIMC"}, 
+  {"name": "Lucknow", "code": "IIML"}
+]
