@@ -1,0 +1,1210 @@
+[
+    {
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI001"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI002"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI003"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI004"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI005"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI006"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI007"
+	},
+	{
+		"name": "Anna University",
+		"code": "TTI008"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI009"
+	},
+	{
+		"name": "Institute of Chemical Technology (ICT)",
+		"code": "TTI010"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI011"
+	},
+	{
+		"name": "Jadavpur University (JU)",
+		"code": "TTI012"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT) ISM",
+		"code": "TTI013"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI014"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI015"
+	},
+	{
+		"name": "Vellore Institute of Technology (VIT)",
+		"code": "TTI016"
+	},
+	{
+		"name": "Birla Institute of Technology & Science (BITS)",
+		"code": "TTI017"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI018"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT) BHU",
+		"code": "TTI019"
+	},
+	{
+		"name": "Thapar Institute of Engineering and Technology (TIET)",
+		"code": "TTI020"
+	},
+	{
+		"name": "Indian Institute of Engineering Science and Technology (IIEST)",
+		"code": "TTI021"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI022"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI023"
+	},
+	{
+		"name": "Indian Institute of Space Science and Technology (IIST)",
+		"code": "TTI024"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI025"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI026"
+	},
+	{
+		"name": "Birla Institute of Technology (BIT)",
+		"code": "TTI027"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI028"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI029"
+	},
+	{
+		"name": "PSG College of Technology (PSGCT)",
+		"code": "TTI030"
+	},
+	{
+		"name": "Visvesvaraya National Institute of Technology (NIT)",
+		"code": "TTI031"
+	},
+	{
+		"name": "Jamia Millia Islamia (JMI)",
+		"code": "TTI032"
+	},
+	{
+		"name": "Shanmugha Arts Science Technology & Research Academy (SASTRA)",
+		"code": "TTI033"
+	},
+	{
+		"name": "Amity University",
+		"code": "TTI034"
+	},
+	{
+		"name": "Aligarh Muslim University (AMU)",
+		"code": "TTI035"
+	},
+	{
+		"name": "Sri Sivasubramaniya Nadar College of Engineering (SSNCE)",
+		"code": "TTI036"
+	},
+	{
+		"name": "Sathyabama Institute of Science and Technology (SIST)",
+		"code": "TTI037"
+	},
+	{
+		"name": "International Institute of Information Technology (IIIT)",
+		"code": "TTI038"
+	},
+	{
+		"name": "Manipal Institute of Technology (MIT)",
+		"code": "TTI039"
+	},
+	{
+		"name": "Thiagarajar College of Engineering (TCE)",
+		"code": "TTI040"
+	},
+	{
+		"name": "Delhi Technological University (DTU)",
+		"code": "TTI041"
+	},
+	{
+		"name": "Jawaharlal Nehru Technological University (JNTU)",
+		"code": "TTI042"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI043"
+	},
+	{
+		"name": "National Institute of Industrial Engineering (NITIE)",
+		"code": "TTI044"
+	},
+	{
+		"name": "College of Engineering (COEP)",
+		"code": "TTI045"
+	},
+	{
+		"name": "SRM Institute of Science and Technology (SRMIST)",
+		"code": "TTI046"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI047"
+	},
+	{
+		"name": "Motilal Nehru National Institute of Technology (NIT)",
+		"code": "TTI048"
+	},
+	{
+		"name": "Koneru Lakshmaiah Education Foundation University (KLU)",
+		"code": "TTI049"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI050"
+	},
+	{
+		"name": "Kalinga Institute of Industrial Technology (KIIT)",
+		"code": "TTI051"
+	},
+	{
+		"name": "Malaviya National Institute of Technology (NIT)",
+		"code": "TTI052"
+	},
+	{
+		"name": "Pondicherry Engineering College (PEC)",
+		"code": "TTI053"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TTI054"
+	},
+	{
+		"name": "Maulana Azad National Institute of Technology (NIT)",
+		"code": "TTI055"
+	},
+	{
+		"name": "International Institute of Information Technology (IIIT)",
+		"code": "TTI056"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI057"
+	},
+	{
+		"name": "RV College of Engineering (RVCE)",
+		"code": "TTI058"
+	},
+	{
+		"name": "Panjab University (PU)",
+		"code": "TTI059"
+	},
+	{
+		"name": "MS Ramaiah Institute of Technology (MSRIT)",
+		"code": "TTI060"
+	},
+	{
+		"name": "Sardar Vallabhbhai National Institute of Technology (NIT)",
+		"code": "TTI061"
+	},
+	{
+		"name": "Coimbatore Institute of Technology (CIT)",
+		"code": "TTI062"
+	},
+	{
+		"name": "Defence Institute of Advanced Technology (DIAT)",
+		"code": "TTI063"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI064"
+	},
+	{
+		"name": "Andhra University College of Engineering (AUCE)",
+		"code": "TTI065"
+	},
+	{
+		"name": "Indraprastha Institute of Information Technology (IIIT)",
+		"code": "TTI066"
+	},
+	{
+		"name": "BMS College of Engineering (BMSCE)",
+		"code": "TTI067"
+	},
+	{
+		"name": "Kongu Engineering College (KEC)",
+		"code": "TTI068"
+	},
+	{
+		"name": "Dayalbagh Educational Institute (DEI)",
+		"code": "TTI069"
+	},
+	{
+		"name": "Jaypee Institute of Information Technology (JIIT)",
+		"code": "TTI070"
+	},
+	{
+		"name": "Sri Venkateswara University (SVU)",
+		"code": "TTI071"
+	},
+	{
+		"name": "Karunya Institute of Technology and Sciences (KITS)",
+		"code": "TTI072"
+	},
+	{
+		"name": "Punjab Engineering College University of Technology (PECUT)",
+		"code": "TTI073"
+	},
+	{
+		"name": "Dr BR Ambedkar National Institute of Technology (NIT)",
+		"code": "TTI074"
+	},
+	{
+		"name": "College of Engineering Trivandrum (CET)",
+		"code": "TTI075"
+	},
+	{
+		"name": "Bannari Amman Institute of Technology (BAIT)",
+		"code": "TTI076"
+	},
+	{
+		"name": "Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology",
+		"code": "TTI077"
+	},
+	{
+		"name": "Siddaganga Institute of Technology (SIT)",
+		"code": "TTI078"
+	},
+	{
+		"name": "BS Abdur Rahman Institute of Science and Technology (BSARIST)",
+		"code": "TTI079"
+	},
+	{
+		"name": "University College of Engineering (UCE)",
+		"code": "TTI080"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI081"
+	},
+	{
+		"name": "Kumaraguru College of Technology (KCT)",
+		"code": "TTI082"
+	},
+	{
+		"name": "Bharati Vidyapeeth Deemed University College of Engineering (BVUCOE)",
+		"code": "TTI083"
+	},
+	{
+		"name": "Jaypee University of Information Technology (JUIT)",
+		"code": "TTI084"
+	},
+	{
+		"name": "Guru Gobind Singh Indraprastha University (GGSIPU)",
+		"code": "TTI085"
+	},
+	{
+		"name": "Sagi Ramakrishnam Raju Engineering College (SRREC)",
+		"code": "TTI086"
+	},
+	{
+		"name": "PES University (PESU)",
+		"code": "TTI087"
+	},
+	{
+		"name": "Army Institute of Technology (AIT)",
+		"code": "TTI088"
+	},
+	{
+		"name": "CV Raman College of Engineering (CVRCE)",
+		"code": "TTI089"
+	},
+	{
+		"name": "Indian Institute of Information Technology (IIIT)",
+		"code": "TTI090"
+	},
+	{
+		"name": "Pandit Dwarka Prasad Mishra Indian Institute of Information Technology",
+		"code": "TTI091"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI092"
+	},
+	{
+		"name": "Government College of Technology (GCT)",
+		"code": "TTI093"
+	},
+	{
+		"name": "Shri Mata Vaishno Devi University (SMVDU)",
+		"code": "TTI094"
+	},
+	{
+		"name": "Veermata Jijabai Technological Institute (VJTI)",
+		"code": "TTI095"
+	},
+	{
+		"name": "Kalasalingam Academy of Research and Education (KARE)",
+		"code": "TTI096"
+	},
+	{
+		"name": "University College of Engineering (UCE)",
+		"code": "TTI097"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI098"
+	},
+	{
+		"name": "New Horizon College of Engineering (NHCE)",
+		"code": "TTI099"
+	},
+	{
+		"name": "Nitte Meenakshi Institute of Technology (NMIT)",
+		"code": "TTI100"
+	},
+	{
+		"name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management (ABVIIITM)",
+		"code": "TTI101"
+	},
+	{
+		"name": "Vishwakarma Institute of Technology (VIT)",
+		"code": "TTI102"
+	},
+	{
+		"name": "Sardar Patel Institute of Technology (SPIT)",
+		"code": "TTI103"
+	},
+	{
+		"name": "BMS Institute of Technology & Management (BMSITM)",
+		"code": "TTI104"
+	},
+	{
+		"name": "Chaitanya Bharathi Institute of Technology (CBIT)",
+		"code": "TTI105"
+	},
+	{
+		"name": "CVR College of Engineering (CVRCE)",
+		"code": "TTI106"
+	},
+	{
+		"name": "Dayananda Sagar College of Engineering (DSCE)",
+		"code": "TTI107"
+	},
+	{
+		"name": "Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)",
+		"code": "TTI108"
+	},
+	{
+		"name": "GH Raisoni College of Engineering (GHRCE)",
+		"code": "TTI109"
+	},
+	{
+		"name": "Galgotias College of Engineering & Technology (GCET)",
+		"code": "TTI110"
+	},
+	{
+		"name": "Gandhi Institute for Technological Advancement (GITA)",
+		"code": "TTI111"
+	},
+	{
+		"name": "Graphic Era (GEU)",
+		"code": "TTI112"
+	},
+	{
+		"name": "Heritage Institute of Technology (HIT)",
+		"code": "TTI113"
+	},
+	{
+		"name": "Hindustan Institute of Technology and Science (HITS)",
+		"code": "TTI114"
+	},
+	{
+		"name": "Institute of Engineering & Management (IEM)",
+		"code": "TTI115"
+	},
+	{
+		"name": "Institute of Technology",
+		"code": "TTI116"
+	},
+	{
+		"name": "KS Rangasamy College of Technology (KSRCT)",
+		"code": "TTI117"
+	},
+	{
+		"name": "Maharashtra Academy of Engineering and Educational Research",
+		"code": "TTI118"
+	},
+	{
+		"name": "Maharashtra Institute of Technology (MIT)",
+		"code": "TTI119"
+	},
+	{
+		"name": "Mepco Schlenk Engineering College (MSEC)",
+		"code": "TTI120"
+	},
+	{
+		"name": "NMAM Institute of Technology (NMAMIT)",
+		"code": "TTI121"
+	},
+	{
+		"name": "Narula Institute of Technology (NIT)",
+		"code": "TTI122"
+	},
+	{
+		"name": "National Institute of Food Technology",
+		"code": "TTI123"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI124"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI125"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI126"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI127"
+	},
+	{
+		"name": "PSNA College of Engineering and Technology (PSNACET)",
+		"code": "TTI128"
+	},
+	{
+		"name": "Rajalakshmi Engineering College (REC)",
+		"code": "TTI129"
+	},
+	{
+		"name": "RMK Engineering College (RMKEC)",
+		"code": "TTI130"
+	},
+	{
+		"name": "Sant Longowal Institute of Engineering & Technology (SLIET)",
+		"code": "TTI131"
+	},
+	{
+		"name": "Saveetha Engineering College (SEC)",
+		"code": "TTI132"
+	},
+	{
+		"name": "School of Engineering",
+		"code": "TTI133"
+	},
+	{
+		"name": "Shri Ramdeobaba College of Engineering and Management (SRCOEM)",
+		"code": "TTI134"
+	},
+	{
+		"name": "Sona College of Technology (SCT)",
+		"code": "TTI135"
+	},
+	{
+		"name": "Sri Krishna College of Engineering and Technology (SKCET)",
+		"code": "TTI136"
+	},
+	{
+		"name": "Sri Ramakrishna Engineering College (SREC)",
+		"code": "TTI137"
+	},
+	{
+		"name": "Sri Sairam Engineering College (SSEC)",
+		"code": "TTI138"
+	},
+	{
+		"name": "Sri Venkateswara College of Engineering (SVCE)",
+		"code": "TTI139"
+	},
+	{
+		"name": "St. Josephs College of Engineering (SJCE)",
+		"code": "TTI140"
+	},
+	{
+		"name": "Narsee Monjee Institute of Management Studies (NMIMS)",
+		"code": "TTI141"
+	},
+	{
+		"name": "The Northcap University (NCU)",
+		"code": "TTI142"
+	},
+	{
+		"name": "The Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU)",
+		"code": "TTI143"
+	},
+	{
+		"name": "University Institute of Engineering and Technology (UIET)",
+		"code": "TTI144"
+	},
+	{
+		"name": "University of Petroleum and Energy Studies (UPES)",
+		"code": "TTI145"
+	},
+	{
+		"name": "Veer Surendra Sai University of Technology (VSSUT)",
+		"code": "TTI146"
+	},
+	{
+		"name": "Foundation for Science",
+		"code": "TTI147"
+	},
+	{
+		"name": "VNR Vignana Jyothi Institute of Engineering & Technology (VNRVJIET)",
+		"code": "TTI148"
+	},
+	{
+		"name": "Walchand College of Engineering (WCE)",
+		"code": "TTI149"
+	},
+	{
+		"name": "Yeshwantrao Chavan College of Engineering (YCCE)",
+		"code": "TTI150"
+	},
+	{
+		"name": "AMC Engineering College (AMCCE)",
+		"code": "TTI151"
+	},
+	{
+		"name": "Academy of Technology (AOT)",
+		"code": "TTI152"
+	},
+	{
+		"name": "Bengal Institute of Technology (BIT)",
+		"code": "TTI153"
+	},
+	{
+		"name": "Bhilai Institute of Technology (BIT)",
+		"code": "TTI154"
+	},
+	{
+		"name": "BNM Institute of Technology (BNMIT)",
+		"code": "TTI155"
+	},
+	{
+		"name": "Chitkara University (CU)",
+		"code": "TTI156"
+	},
+	{
+		"name": "Dr Mahalingam College of Engineering and Technology (MCET)",
+		"code": "TTI157"
+	},
+	{
+		"name": "EGS Pillay Engineering College (EGSPEC)",
+		"code": "TTI158"
+	},
+	{
+		"name": "GL Bajaj Institute of Technology and Management (GLBITM)",
+		"code": "TTI159"
+	},
+	{
+		"name": "Gayatri Vidya Parishad College of Engineering (GVPCE)",
+		"code": "TTI160"
+	},
+	{
+		"name": "Gokaraju Rangaraju Institute of Engineering & Technology (GRIET)",
+		"code": "TTI161"
+	},
+	{
+		"name": "Haldia Institute of Technology (HIT)",
+		"code": "TTI162"
+	},
+	{
+		"name": "Indian Institute of Information Technology",
+		"code": "TTI163"
+	},
+	{
+		"name": "JNTUA College of Engineering (JNTUA)",
+		"code": "TTI164"
+	},
+	{
+		"name": "JSS Academy of Technical Education (JSSATE)",
+		"code": "TTI165"
+	},
+	{
+		"name": "KJ Somaiya College of Engineering (KJSCE)",
+		"code": "TTI166"
+	},
+	{
+		"name": "Karpagam College of Engineering (KCE)",
+		"code": "TTI167"
+	},
+	{
+		"name": "Krishna Institute of Engineering and Technology (KIET)",
+		"code": "TTI168"
+	},
+	{
+		"name": "KLE Technological University (Previously BVBCET)",
+		"code": "TTI169"
+	},
+	{
+		"name": "KPR Institute of Engineering and Technology (KPRIET)",
+		"code": "TTI170"
+	},
+	{
+		"name": "Lakshmi Narain College of Technology (LMNCT)",
+		"code": "TTI171"
+	},
+	{
+		"name": "MGR Educational and Research Institute (MGRERI)",
+		"code": "TTI172"
+	},
+	{
+		"name": "Maharaja Sayajirao University (MSU)",
+		"code": "TTI173"
+	},
+	{
+		"name": "Maharaja Surajmal Institute of Technology (MSIT)",
+		"code": "TTI174"
+	},
+	{
+		"name": "MKSSS Cummins College of Engineering for Women (CCOEW)",
+		"code": "TTI175"
+	},
+	{
+		"name": "Malla Reddy Engineering College for Women (MRECW)",
+		"code": "TTI176"
+	},
+	{
+		"name": "Malnad College of Engineering (MCE)",
+		"code": "TTI177"
+	},
+	{
+		"name": "Manav Rachna International Institute of Research & Studies (MRIRS)",
+		"code": "TTI178"
+	},
+	{
+		"name": "MLR Institute of Technology (MLRIT)",
+		"code": "TTI179"
+	},
+	{
+		"name": "Muffakham Jah College of Engineering and Technology (MJCET)",
+		"code": "TTI180"
+	},
+	{
+		"name": "National Engineering College (NEC)",
+		"code": "TTI181"
+	},
+	{
+		"name": "National Institute of Technology (NIT)",
+		"code": "TTI182"
+	},
+	{
+		"name": "Pimpri Chinchwad College of Engineering (PCCOE)",
+		"code": "TTI183"
+	},
+	{
+		"name": "Prasad V Potluri Siddhartha Institue of Technology (PVSIT)",
+		"code": "TTI184"
+	},
+	{
+		"name": "RMD Engineering College (RMDEC)",
+		"code": "TTI185"
+	},
+	{
+		"name": "RVR & JC College of Engineering (RVRJCCE)",
+		"code": "TTI186"
+	},
+	{
+		"name": "Ramrao Adik Institute of Technology (RAIT)",
+		"code": "TTI187"
+	},
+	{
+		"name": "Sardar Patel College of Engineering (SPCE)",
+		"code": "TTI188"
+	},
+	{
+		"name": "Shri Vishnu Engineering College for Women (SVECW)",
+		"code": "TTI189"
+	},
+	{
+		"name": "Sri Jayachamarajendra College of Engineering (SJCE)",
+		"code": "TTI190"
+	},
+	{
+		"name": "Sri Krishna College of Technology (SKCT)",
+		"code": "TTI191"
+	},
+	{
+		"name": "Sri Sai Ram Institute of Technology (SSRIT)",
+		"code": "TTI192"
+	},
+	{
+		"name": "Sri Venkateswara College of Engineering and Technology (SVCET)",
+		"code": "TTI193"
+	},
+	{
+		"name": "TKM College of Engineering (TKMCE)",
+		"code": "TTI194"
+	},
+	{
+		"name": "The National Institute of Engineering (NIE)",
+		"code": "TTI195"
+	},
+	{
+		"name": "Vardhaman College of Engineering (VCE)",
+		"code": "TTI196"
+	},
+	{
+		"name": "Vasavi College of Engineering (VCE)",
+		"code": "TTI197"
+	},
+	{
+		"name": "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College",
+		"code": "TTI198"
+	},
+	{
+		"name": "Velagapudi Ramakrishna Siddhartha Engineering College (VRSEC)",
+		"code": "TTI199"
+	},
+	{
+		"name": "Vishwakarma Institute of Information Technology (VIIT)",
+		"code": "TTI200"
+	},
+	{
+		"name": "YMCA University of Science & Tech (YMCAUST)",
+		"code": "TTI201"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI001"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI002"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI003"
+	},
+	{
+		"name": "Indian School of Business (ISB)",
+		"code": "TMI004"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI005"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT) SJMSOM",
+		"code": "TMI006"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI007"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT) VGSOM",
+		"code": "TMI008"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT) DMS",
+		"code": "TMI009"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT) DMS",
+		"code": "TMI010"
+	},
+	{
+		"name": "Xavier Labour Relations Institute (XLRI)",
+		"code": "TMI011"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI012"
+	},
+	{
+		"name": "Management Development Institute (MDI)",
+		"code": "TMI013"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI014"
+	},
+	{
+		"name": "National Institute of Industrial Engineering (NITIE)",
+		"code": "TMI015"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI016"
+	},
+	{
+		"name": "Great Lakes Institute of Management (GLIM)",
+		"code": "TMI017"
+	},
+	{
+		"name": "Indian Institute of Technology (IIT)",
+		"code": "TMI018"
+	},
+	{
+		"name": "Symbiosis Institute of Business Management (SIBM)",
+		"code": "TMI019"
+	},
+	{
+		"name": "SP Jain Institute of Management & Research (SPJIMR)",
+		"code": "TMI020"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI021"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI022"
+	},
+	{
+		"name": "ICFAI Foundation for Higher Education (IFHE)",
+		"code": "TMI023"
+	},
+	{
+		"name": "Indian Institute of Foreign Trade (IIFT)",
+		"code": "TMI024"
+	},
+	{
+		"name": "SVKM`s Narsee Monjee Institute of Management Studies (NMIMS)",
+		"code": "TMI025"
+	},
+	{
+		"name": "International Management Institute (IMI)",
+		"code": "TMI026"
+	},
+	{
+		"name": "Rajiv Gandhi Indian Institute of Management (RGIIM)",
+		"code": "TMI027"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI028"
+	},
+	{
+		"name": "Anna University (AU)",
+		"code": "TMI029"
+	},
+	{
+		"name": "Vellore Institute of Technology (VIT)",
+		"code": "TMI030"
+	},
+	{
+		"name": "Kalinga Institute of Industrial Technology (KIIT)",
+		"code": "TMI031"
+	},
+	{
+		"name": "Institute of Management Technology (IMT)",
+		"code": "TMI032"
+	},
+	{
+		"name": "Loyola Institute of Business Administration (LIBA)",
+		"code": "TMI033"
+	},
+	{
+		"name": "PSG College of Technology (PSGCT)",
+		"code": "TMI034"
+	},
+	{
+		"name": "Jamia Millia Islamia (JMI)",
+		"code": "TMI035"
+	},
+	{
+		"name": "Institute for Financial Management and Research (IFMR)",
+		"code": "TMI036"
+	},
+	{
+		"name": "Xavier University (XU)",
+		"code": "TMI037"
+	},
+	{
+		"name": "Fore School of Management (FSM)",
+		"code": "TMI038"
+	},
+	{
+		"name": "Lovely Professional University (LPU)",
+		"code": "TMI039"
+	},
+	{
+		"name": "Banaras Hindu University (BHU)",
+		"code": "TMI040"
+	},
+	{
+		"name": "Indian Institute of Management (IIM)",
+		"code": "TMI041"
+	},
+	{
+		"name": "Indian Institute of Forest Management (IIFM)",
+		"code": "TMI042"
+	},
+	{
+		"name": "Panjab University (PU)",
+		"code": "TMI043"
+	},
+	{
+		"name": "Institute of Rural Management (IRM)",
+		"code": "TMI044"
+	},
+	{
+		"name": "Birla Institute of Technology (BIT)",
+		"code": "TMI045"
+	},
+	{
+		"name": "Birla Institute of Management Technology (BIMT)",
+		"code": "TMI046"
+	},
+	{
+		"name": "Koneru Lakshmaiah Education Foundation University (KLEFU)",
+		"code": "TMI047"
+	},
+	{
+		"name": "Lal Bahadur Shastri Institute of Management (LBSIM)",
+		"code": "TMI048"
+	},
+	{
+		"name": "Amity University (AU)",
+		"code": "TMI049"
+	},
+	{
+		"name": "Aligarh Muslim University (AMU)",
+		"code": "TMI050"
+	},
+	{
+		"name": "Institute of Management and Entrepreneurship Development (IMED)",
+		"code": "TMI051"
+	},
+	{
+		"name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management (ABVIIITM)",
+		"code": "TMI052"
+	},
+	{
+		"name": "Bharathidasan Institute of Management (BIM)",
+		"code": "TMI053"
+	},
+	{
+		"name": "Chitkara University (CU)",
+		"code": "TMI054"
+	},
+	{
+		"name": "Guru Gobind Singh Indraprastha University (GGSIU)",
+		"code": "TMI055"
+	},
+	{
+		"name": "IIMT College of Engineering (IIMTCE)",
+		"code": "TMI056"
+	},
+	{
+		"name": "Institute of Management Technology (IMT)",
+		"code": "TMI057"
+	},
+	{
+		"name": "Institute of Management Technology (IMT)",
+		"code": "TMI058"
+	},
+	{
+		"name": "Institute of Management",
+		"code": "TMI059"
+	},
+	{
+		"name": "International Management Institute (IMI)",
+		"code": "TMI060"
+	},
+	{
+		"name": "International Management Institute (IMI)",
+		"code": "TMI061"
+	},
+	{
+		"name": "JK Business School (JKBS)",
+		"code": "TMI062"
+	},
+	{
+		"name": "Jagan Institute of Management Studies (JIMS)",
+		"code": "TMI063"
+	},
+	{
+		"name": "Jaipuria Institute of Management (JIM)",
+		"code": "TMI064"
+	},
+	{
+		"name": "Jaipuria Institute of Management (JIM)",
+		"code": "TMI065"
+	},
+	{
+		"name": "Jaipuria Institute of Management (JIM)",
+		"code": "TMI066"
+	},
+	{
+		"name": "KJ Somaiya Institute of Management Studies & Research (KJSIMSR)",
+		"code": "TMI067"
+	},
+	{
+		"name": "New Delhi Institute of Management (NDIM)",
+		"code": "TMI068"
+	},
+	{
+		"name": "Principal L N Welingkar Institute of Management Development and Research (WE School)",
+		"code": "TMI069"
+	},
+	{
+		"name": "Rajagiri Business School (RBS)",
+		"code": "TMI070"
+	},
+	{
+		"name": "Shoolini University of Biotechnology and Management Sciences (SUBMS)",
+		"code": "TMI071"
+	},
+	{
+		"name": "SRM Institute of Science and Technology (SRMIST)",
+		"code": "TMI072"
+	},
+	{
+		"name": "Thiagarajar School of Management (TSM)",
+		"code": "TMI073"
+	},
+	{
+		"name": "Universal Business School (UBS)",
+		"code": "TMI074"
+	},
+	{
+		"name": "University of Petroleum and Energy Studies (UPES)",
+		"code": "TMI075"
+	},
+	{
+		"name": "Xavier Institute of Management & Entrepreneurship (XIME)",
+		"code": "TMI076"
+	},
+	{
+		"name": "Acharya Institute of Management and Science (AIMS)",
+		"code": "TMI077"
+	},
+	{
+		"name": "Balaji Institute of Modern Management (BIMM)",
+		"code": "TMI078"
+	},
+	{
+		"name": "Bharati Vidyapeeth Institute of Management and Research (BVIMR)",
+		"code": "TMI079"
+	},
+	{
+		"name": "Delhi Institute of Advanced Studies (DIAS)",
+		"code": "TMI080"
+	},
+	{
+		"name": "National Institute of Technology (NIT) DMS",
+		"code": "TMI081"
+	},
+	{
+		"name": "Fortune Institute of International Business (FIIB)",
+		"code": "TMI082"
+	},
+	{
+		"name": "GLA University (GLAU)",
+		"code": "TMI083"
+	},
+	{
+		"name": "Hindustan Institute of Technology and Science (HITS)",
+		"code": "TMI084"
+	},
+	{
+		"name": "Institute of Business Management & Research",
+		"code": "TMI085"
+	},
+	{
+		"name": "Institute of Management Studies (IMS)",
+		"code": "TMI086"
+	},
+	{
+		"name": "Jagannath International Management School (JIMS)",
+		"code": "TMI087"
+	},
+	{
+		"name": "Kumaraguru College of Technology (KCT)",
+		"code": "TMI088"
+	},
+	{
+		"name": "ManavRachna International Institute of Research & Studies (MRIIRS)",
+		"code": "TMI089"
+	},
+	{
+		"name": "MIT School of Telecom Management",
+		"code": "TMI090"
+	},
+	{
+		"name": "School of Management",
+		"code": "TMI091"
+	},
+	{
+		"name": "SDM Institute for Management Development (SDMIMD)",
+		"code": "TMI092"
+	},
+	{
+		"name": "Shanmugha Arts Science Technology & Research Academy (SASTRA)",
+		"code": "TMI093"
+	},
+	{
+		"name": "Sharda University (SU)",
+		"code": "TMI094"
+	},
+	{
+		"name": "SSN School of Management (SSNSM)",
+		"code": "TMI095"
+	},
+	{
+		"name": "St. Joseph`s Institute of Management (SJIM)",
+		"code": "TMI096"
+	},
+	{
+		"name": "TA Pai Management Institute (TAPMI)",
+		"code": "TMI097"
+	},
+	{
+		"name": "Thapar Institute of Engineering and Technology (TIET)",
+		"code": "TMI098"
+	},
+	{
+		"name": "Jammu University (JU)",
+		"code": "TMI099"
+	},
+	{
+		"name": "Vivekanand Education Society`s Institute of Management Studies and Research (VESIMSR)",
+		"code": "TMI100"
+	},
+	{
+		"name": "Xavier Institute of Social Service (XISS)",
+		"code": "TMI101"
+	}
+]
