@@ -1,0 +1,945 @@
+[
+    {
+		"name": "[24]7 Inc"
+	},
+	{
+		"name": "AT Kearney"
+	},
+	{
+		"name": "Acadgild"
+	},
+	{
+		"name": "Accenture"
+	},
+	{
+		"name": "Aditya Birla Group"
+	},
+	{
+		"name": "Aditya Birla Retail"
+	},
+	{
+		"name": "Adobe"
+	},
+	{
+		"name": "Affine Analytics"
+	},
+	{
+		"name": "Airpush India Pvt Ltd"
+	},
+	{
+		"name": "Airtel"
+	},
+	{
+		"name": "AJIO.com"
+	},
+	{
+		"name": "ALTEN Calsoft Labs"
+	},
+	{
+		"name": "Altimetrik"
+	},
+	{
+		"name": "Altisource"
+	},
+	{
+		"name": "Amadeus"
+	},
+	{
+		"name": "Amazon"
+	},
+	{
+		"name": "American Express"
+	},
+	{
+		"name": "Analytics Quotient"
+	},
+	{
+		"name": "Anheuser-Busch InBev"
+	},
+	{
+		"name": "OLA cabs"
+	},
+	{
+		"name": "Aricent"
+	},
+	{
+		"name": "Arvind Lifestyle Brands Limited"
+	},
+	{
+		"name": "Athena Global Technologies"
+	},
+	{
+		"name": "Awign"
+	},
+	{
+		"name": "Axis Bank"
+	},
+	{
+		"name": "Axtria"
+	},
+	{
+		"name": "Bain & Company"
+	},
+	{
+		"name": "Bajaj Auto Ltd"
+	},
+	{
+		"name": "BankBazaar"
+	},
+	{
+		"name": "Bharti Airtel"
+	},
+	{
+		"name": "Bigbasket"
+	},
+	{
+		"name": "Bizongo"
+	},
+	{
+		"name": "Blackbuck"
+	},
+	{
+		"name": "Blowhorn"
+	},
+	{
+		"name": "Blubirch"
+	},
+	{
+		"name": "Bluestone"
+	},
+	{
+		"name": "BookEventz"
+	},
+	{
+		"name": "BookMyShow"
+	},
+	{
+		"name": "Box8"
+	},
+	{
+		"name": "Buyhatke"
+	},
+	{
+		"name": "Byju's"
+	},
+	{
+		"name": "Capgemini"
+	},
+	{
+		"name": "Capillary Technologies"
+	},
+	{
+		"name": "CarDekho"
+	},
+	{
+		"name": "Cars24"
+	},
+	{
+		"name": "CarWale"
+	},
+	{
+		"name": "CDK Global"
+	},
+	{
+		"name": "Cerner Corporation"
+	},
+	{
+		"name": "CGI Group"
+	},
+	{
+		"name": "Cisco"
+	},
+	{
+		"name": "Citi"
+	},
+	{
+		"name": "Citicorp Services India Pvt. Ltd"
+	},
+	{
+		"name": "ClearTax"
+	},
+	{
+		"name": "ClearTrip"
+	},
+	{
+		"name": "Cognizant Technology Solutions"
+	},
+	{
+		"name": "COVIAM"
+	},
+	{
+		"name": "Credit Suisse"
+	},
+	{
+		"name": "CreditVidya"
+	},
+	{
+		"name": "CREO Tech"
+	},
+	{
+		"name": "CureFit Healthcare Pvt Ltd"
+	},
+	{
+		"name": "Curo Healthcare"
+	},
+	{
+		"name": "Delhivery"
+	},
+	{
+		"name": "Dell"
+	},
+	{
+		"name": "Deloitte"
+	},
+	{
+		"name": "Deutsche Bank"
+	},
+	{
+		"name": "Directi"
+	},
+	{
+		"name": "Docsapp"
+	},
+	{
+		"name": "Dream11"
+	},
+	{
+		"name": "Druva"
+	},
+	{
+		"name": "eBay"
+	},
+	{
+		"name": "eClerx"
+	},
+	{
+		"name": "Edelweiss"
+	},
+	{
+		"name": "EdgeVerve"
+	},
+	{
+		"name": "Edureka"
+	},
+	{
+		"name": "Elsevier"
+	},
+	{
+		"name": "Encore Capital Group"
+	},
+	{
+		"name": "Ernst & Young"
+	},
+	{
+		"name": "Evalueserve"
+	},
+	{
+		"name": "Exilant Technologies"
+	},
+	{
+		"name": "EXL"
+	},
+	{
+		"name": "Faasos"
+	},
+	{
+		"name": "Fidelity Investments"
+	},
+	{
+		"name": "Fiserv"
+	},
+	{
+		"name": "Flipkart"
+	},
+	{
+		"name": "Foodpanda"
+	},
+	{
+		"name": "Fractal Analytics"
+	},
+	{
+		"name": "Freshworks"
+	},
+	{
+		"name": "Furlenco"
+	},
+	{
+		"name": "FusionCharts"
+	},
+	{
+		"name": "Future Group"
+	},
+	{
+		"name": "GAIN Credit"
+	},
+	{
+		"name": "GE Digital"
+	},
+	{
+		"name": "GE Healthcare"
+	},
+	{
+		"name": "General Electric"
+	},
+	{
+		"name": "Genpact"
+	},
+	{
+		"name": "GEP Worldwide"
+	},
+	{
+		"name": "Global Analytics"
+	},
+	{
+		"name": "Goldman Sachs"
+	},
+	{
+		"name": "Goodera"
+	},
+	{
+		"name": "Google"
+	},
+	{
+		"name": "Great West Global"
+	},
+	{
+		"name": "GreyOrange"
+	},
+	{
+		"name": "Grofers"
+	},
+	{
+		"name": "GroupM"
+	},
+	{
+		"name": "HackerEarth"
+	},
+	{
+		"name": "Halodoc"
+	},
+	{
+		"name": "Happay"
+	},
+	{
+		"name": "Happiest Minds"
+	},
+	{
+		"name": "Harman"
+	},
+	{
+		"name": "Harman Connected Services"
+	},
+	{
+		"name": "HCL Technologies"
+	},
+	{
+		"name": "HDFC"
+	},
+	{
+		"name": "Healthkart"
+	},
+	{
+		"name": "Hewlett Packard"
+	},
+	{
+		"name": "Hike"
+	},
+	{
+		"name": "Unilever"
+	},
+	{
+		"name": "Honestbee"
+	},
+	{
+		"name": "Honeywell"
+	},
+	{
+		"name": "Hotstar"
+	},
+	{
+		"name": "Housejoy"
+	},
+	{
+		"name": "Housing"
+	},
+	{
+		"name": "HSBC"
+	},
+	{
+		"name": "Huawei"
+	},
+	{
+		"name": "Hubbler"
+	},
+	{
+		"name": "IBM"
+	},
+	{
+		"name": "ICICI Bank"
+	},
+	{
+		"name": "Idea Cellular Ltd"
+	},
+	{
+		"name": "IDfy"
+	},
+	{
+		"name": "IDrive Software India Pvt Ltd"
+	},
+	{
+		"name": "IHS Markit"
+	},
+	{
+		"name": "IIFL"
+	},
+	{
+		"name": "Impact Analytics"
+	},
+	{
+		"name": "Indecomm Global Services"
+	},
+	{
+		"name": "IndiaLends"
+	},
+	{
+		"name": "Infosys"
+	},
+	{
+		"name": "InMobi"
+	},
+	{
+		"name": "Innominds"
+	},
+	{
+		"name": "Innovaccer"
+	},
+	{
+		"name": "InstaReM"
+	},
+	{
+		"name": "Intersoft KK"
+	},
+	{
+		"name": "Intuit"
+	},
+	{
+		"name": "IPSOFT"
+	},
+	{
+		"name": "iSteer Inc"
+	},
+	{
+		"name": "ITC Ltd"
+	},
+	{
+		"name": "ITC Infotech"
+	},
+	{
+		"name": "Jabong"
+	},
+	{
+		"name": "JDA Software"
+	},
+	{
+		"name": "Jio"
+	},
+	{
+		"name": "Jio Money"
+	},
+	{
+		"name": "Johnson & Johnson"
+	},
+	{
+		"name": "JP Morgan"
+	},
+	{
+		"name": "Kirusa"
+	},
+	{
+		"name": "KNAB Finance"
+	},
+	{
+		"name": "Kore.ai"
+	},
+	{
+		"name": "Kotak Mahindra Bank"
+	},
+	{
+		"name": "KPMG"
+	},
+	{
+		"name": "Kuliza Technologies"
+	},
+	{
+		"name": "Langoor"
+	},
+	{
+		"name": "Last Mile Consultants"
+	},
+	{
+		"name": "LatentView Analytics"
+	},
+	{
+		"name": "Lava International"
+	},
+	{
+		"name": "Leadsquared"
+	},
+	{
+		"name": "Lendingkart"
+	},
+	{
+		"name": "Lenskart"
+	},
+	{
+		"name": "LetsVenture"
+	},
+	{
+		"name": "Licious"
+	},
+	{
+		"name": "Limeroad"
+	},
+	{
+		"name": "LimeTray"
+	},
+	{
+		"name": "Linkedin"
+	},
+	{
+		"name": "LivSpace"
+	},
+	{
+		"name": "Magicpin"
+	},
+	{
+		"name": "Mahindra and Mahindra"
+	},
+	{
+		"name": "Mahindra SmartShift"
+	},
+	{
+		"name": "MakeMyTrip"
+	},
+	{
+		"name": "Manhattan Associates"
+	},
+	{
+		"name": "Mantra Labs"
+	},
+	{
+		"name": "Marico Limited"
+	},
+	{
+		"name": "Mckinsey & Company"
+	},
+	{
+		"name": "Medlife.com"
+	},
+	{
+		"name": "Meesho"
+	},
+	{
+		"name": "mfine"
+	},
+	{
+		"name": "Microsoft"
+	},
+	{
+		"name": "Mindtree"
+	},
+	{
+		"name": "MobileIron"
+	},
+	{
+		"name": "MphasiS"
+	},
+	{
+		"name": "mSupply.com"
+	},
+	{
+		"name": "Mu Sigma"
+	},
+	{
+		"name": "MyCotra"
+	},
+	{
+		"name": "myGate"
+	},
+	{
+		"name": "Myntra"
+	},
+	{
+		"name": "Myntra Jabong"
+	},
+	{
+		"name": "Nagarro"
+	},
+	{
+		"name": "Naukri"
+	},
+	{
+		"name": "Near.co"
+	},
+	{
+		"name": "NestAway"
+	},
+	{
+		"name": "NetApp"
+	},
+	{
+		"name": "Next education"
+	},
+	{
+		"name": "Next Education India Pvt Ltd"
+	},
+	{
+		"name": "Ninjacart"
+	},
+	{
+		"name": "Nokia"
+	},
+	{
+		"name": "Noon"
+	},
+	{
+		"name": "Nous Infosystems"
+	},
+	{
+		"name": "Oodles Technologies"
+	},
+	{
+		"name": "Open App"
+	},
+	{
+		"name": "OpenText"
+	},
+	{
+		"name": "Oracle"
+	},
+	{
+		"name": "OYO Rooms"
+	},
+	{
+		"name": "PayPal"
+	},
+	{
+		"name": "Paytm"
+	},
+	{
+		"name": "Paytm Mall"
+	},
+	{
+		"name": "PayU"
+	},
+	{
+		"name": "PepsiCo"
+	},
+	{
+		"name": "Persistent Systems"
+	},
+	{
+		"name": "PharmEasy"
+	},
+	{
+		"name": "Philips"
+	},
+	{
+		"name": "PhonePe"
+	},
+	{
+		"name": "Playment"
+	},
+	{
+		"name": "Practo"
+	},
+	{
+		"name": "Procter & Gamble"
+	},
+	{
+		"name": "PromptCloud"
+	},
+	{
+		"name": "PSTakeCare"
+	},
+	{
+		"name": "PwC India"
+	},
+	{
+		"name": "Quantiphi"
+	},
+	{
+		"name": "Quick Heal"
+	},
+	{
+		"name": "Quikr"
+	},
+	{
+		"name": "Ramyam Intelligence Lab Pvt Ltd"
+	},
+	{
+		"name": "Rapido"
+	},
+	{
+		"name": "Razorpay"
+	},
+	{
+		"name": "Reliance"
+	},
+	{
+		"name": "Reliance Industries Limited"
+	},
+	{
+		"name": "Reliance Retail"
+	},
+	{
+		"name": "RentoMojo"
+	},
+	{
+		"name": "Rivigo"
+	},
+	{
+		"name": "RockYou"
+	},
+	{
+		"name": "RoofandFloor"
+	},
+	{
+		"name": "Sabre Holdings"
+	},
+	{
+		"name": "Samsung"
+	},
+	{
+		"name": "Samsung Electronics"
+	},
+	{
+		"name": "Samsung Research Institute"
+	},
+	{
+		"name": "SAP Labs"
+	},
+	{
+		"name": "Sapient"
+	},
+	{
+		"name": "SapientRazorfish"
+	},
+	{
+		"name": "SC Johnson"
+	},
+	{
+		"name": "Sendfast"
+	},
+	{
+		"name": "Seynse Technologies"
+	},
+	{
+		"name": "Shaadi.com"
+	},
+	{
+		"name": "Shadowfax"
+	},
+	{
+		"name": "Shaw Academy"
+	},
+	{
+		"name": "Shiksha Infotech"
+	},
+	{
+		"name": "Shopclues"
+	},
+	{
+		"name": "Shuttl"
+	},
+	{
+		"name": "Siemens Technology"
+	},
+	{
+		"name": "Simplilearn"
+	},
+	{
+		"name": "Snapdeal"
+	},
+	{
+		"name": "SNic Solutions"
+	},
+	{
+		"name": "Sportskeeda"
+	},
+	{
+		"name": "Stanza Living"
+	},
+	{
+		"name": "State Bank of India"
+	},
+	{
+		"name": "Swiggy"
+	},
+	{
+		"name": "Tally"
+	},
+	{
+		"name": "Tapp Me"
+	},
+	{
+		"name": "Tapzo"
+	},
+	{
+		"name": "Target Corporation"
+	},
+	{
+		"name": "Tata Consultancy Services"
+	},
+	{
+		"name": "TATA Elxsi"
+	},
+	{
+		"name": "Tata Strategic Management Group"
+	},
+	{
+		"name": "TCG Digital"
+	},
+	{
+		"name": "Tech Mahindra"
+	},
+	{
+		"name": "TESCO"
+	},
+	{
+		"name": "Testbook"
+	},
+	{
+		"name": "The Boston Consulting Group"
+	},
+	{
+		"name": "The Economic Times"
+	},
+	{
+		"name": "TIAA",
+		"": " India"
+	},
+	{
+		"name": "Times Internet"
+	},
+	{
+		"name": "Tinystep"
+	},
+	{
+		"name": "Toppr"
+	},
+	{
+		"name": "Tracxn"
+	},
+	{
+		"name": "TravelTriangle"
+	},
+	{
+		"name": "Travelyaari"
+	},
+	{
+		"name": "Treebo hotels"
+	},
+	{
+		"name": "Uber"
+	},
+	{
+		"name": "Udaan"
+	},
+	{
+		"name": "UnitedHealth Group"
+	},
+	{
+		"name": "UpGrad"
+	},
+	{
+		"name": "Urban Ladder"
+	},
+	{
+		"name": "UST Global"
+	},
+	{
+		"name": "Valtech"
+	},
+	{
+		"name": "ValueLabs"
+	},
+	{
+		"name": "Verizon"
+	},
+	{
+		"name": "Virtusa"
+	},
+	{
+		"name": "VMware"
+	},
+	{
+		"name": "Vodafone"
+	},
+	{
+		"name": "Vogo Rentals"
+	},
+	{
+		"name": "Vuclip Inc."
+	},
+	{
+		"name": "Western Union"
+	},
+	{
+		"name": "Wipro"
+	},
+	{
+		"name": "WNS Global Services"
+	},
+	{
+		"name": "Wynk Ltd"
+	},
+	{
+		"name": "Xiaomi Technology"
+	},
+	{
+		"name": "Xoriant Solutions"
+	},
+	{
+		"name": "Yash technologies"
+	},
+	{
+		"name": "Yatra"
+	},
+	{
+		"name": "Yodlee"
+	},
+	{
+		"name": "Yulu"
+	},
+	{
+		"name": "ZEFO"
+	},
+	{
+		"name": "Zensar Technologies"
+	},
+	{
+		"name": "ZestMoney"
+	},
+	{
+		"name": "Zinnov"
+	},
+	{
+		"name": "ZipGo"
+	},
+	{
+		"name": "Zivame"
+	},
+	{
+		"name": "Zomato"
+	},
+	{
+		"name": "Zoomcar"
+	},
+	{
+		"name": "ZS Associates"
+	},
+	{
+		"name": "Zynga"
+	}
+]
