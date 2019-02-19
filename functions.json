@@ -1,101 +1,215 @@
 [
-    {
-      "name": "Technology : Backend"
-    },
-    {
-      "name": "Technology : Frontend"
-    },
-    {
-      "name": "Technology : Full stack"
-    },
-    {
-      "name": "Technology : iOs"
-    },
-    {
-      "name": "Technology : Android"
-    },
-    {
-      "name": "Technology : Quality"
-    },
-    {
-      "name": "Technology : Leadership"
-    },
-    {
-      "name": "Product : Manager"
-    },
-    {
-      "name": "Product : Analyst"
-    },
-    {
-      "name": "Business : Analyst"
-    },
-    {
-      "name": "Business : Consultant / Strategist"
-    },
-    {
-      "name": "Business : Category management"
-    },
-    {
-      "name": "Business : Finance"
-    },
-    {
-      "name": "Operations : Supply chain"
-    },
-    {
-      "name": "Operations : Cusomer experience"
-    },
-    {
-      "name": "Operations : Process excellence"
-    },
-    {
-      "name": "Operations : Generalist"
-    },
-    {
-      "name": "Operations : Leadership"
-    },
-    {
-      "name": "Marketing : Digital / SMM"
-    },
-    {
-      "name": "Marketing : Offline"
-    },
-    {
-      "name": "Marketing : Generalist"
-    },
-    {
-      "name": "Marketing : Leadership"
-    },
-    {
-      "name": "Marketing : Sales / BD"
-    },
-    {
-      "name": "Design : Graphic designer"
-    },
-    {
-      "name": "Design : UI / UX designer"
-    },
-    {
-      "name": "Special : Data science"
-    },
-    {
-      "name": "Special : AI / ML"
-    },
-    {
-      "name": "Special : Blockchain"
-    },
-    {
-      "name": "HR : Talent acquisition"
-    },
-    {
-      "name": "HR : Generalist"
-    },
-    {
-      "name": "HR : Leadership"
-    },
-    {
-      "name": "Finance : Taxation"
-    },
-    {
-      "name": "Finance : Treasury"
-    }
+   {
+      "name":"Business : Analyst"
+   },
+   {
+      "name":"Business : Consultant \/ Strategist"
+   },
+   {
+      "name":"Business : Category management"
+   },
+   {
+      "name":"Business : Finance"
+   },
+   {
+      "name":"Business : Business Development"
+   },
+   {
+      "name":"Design : Graphic designer"
+   },
+   {
+      "name":"Design : UI \/ UX designer"
+   },
+   {
+      "name":"Finance : Taxation"
+   },
+   {
+      "name":"Finance : Treasury"
+   },
+   {
+      "name":"HR : Talent acquisition"
+   },
+   {
+      "name":"HR : Generalist"
+   },
+   {
+      "name":"HR : Leadership"
+   },
+   {
+      "name":"Marketing : Digital \/ SMM"
+   },
+   {
+      "name":"Marketing : Offline"
+   },
+   {
+      "name":"Marketing : Generalist"
+   },
+   {
+      "name":"Marketing : Leadership"
+   },
+   {
+      "name":"Marketing : Sales \/ BD"
+   },
+   {
+      "name":"Operations : Supply chain"
+   },
+   {
+      "name":"Operations : Cusomer experience"
+   },
+   {
+      "name":"Operations : Process excellence"
+   },
+   {
+      "name":"Operations : Generalist"
+   },
+   {
+      "name":"Operations : Project management"
+   },
+   {
+      "name":"Operations : Leadership"
+   },
+   {
+      "name":"Product : Manager"
+   },
+   {
+      "name":"Product : Analyst"
+   },
+   {
+      "name":"Special : Data science"
+   },
+   {
+      "name":"Special : AI \/ ML"
+   },
+   {
+      "name":"Special : Blockchain"
+   },
+   {
+      "name":"Technology : Backend"
+   },
+   {
+      "name":"Technology : Frontend"
+   },
+   {
+      "name":"Technology : Full stack"
+   },
+   {
+      "name":"Technology : iOs"
+   },
+   {
+      "name":"Technology : Android"
+   },
+   {
+      "name":"Technology : QA"
+   },
+   {
+      "name":"Technology : Leadership"
+   },
+   {
+      "name":"Technology : Data science"
+   },
+   {
+      "name":"Technology : Mobile Development"
+   },
+   {
+      "name":"Technology : Data Engineering"
+   },
+   {
+      "name":"Technology : Backend"
+   },
+   {
+      "name":"Technology : Frontend"
+   },
+   {
+      "name":"Technology : Full stack"
+   },
+   {
+      "name":"Technology : iOs"
+   },
+   {
+      "name":"Technology : Android"
+   },
+   {
+      "name":"Technology : Quality"
+   },
+   {
+      "name":"Technology : Leadership"
+   },
+   {
+      "name":"Product : Manager"
+   },
+   {
+      "name":"Product : Analyst"
+   },
+   {
+      "name":"Business : Analyst"
+   },
+   {
+      "name":"Business : Consultant \/ Strategist"
+   },
+   {
+      "name":"Business : Category management"
+   },
+   {
+      "name":"Business : Finance"
+   },
+   {
+      "name":"Operations : Supply chain"
+   },
+   {
+      "name":"Operations : Cusomer experience"
+   },
+   {
+      "name":"Operations : Process excellence"
+   },
+   {
+      "name":"Operations : Generalist"
+   },
+   {
+      "name":"Operations : Leadership"
+   },
+   {
+      "name":"Marketing : Digital \/ SMM"
+   },
+   {
+      "name":"Marketing : Offline"
+   },
+   {
+      "name":"Marketing : Generalist"
+   },
+   {
+      "name":"Marketing : Leadership"
+   },
+   {
+      "name":"Marketing : Sales \/ BD"
+   },
+   {
+      "name":"Design : Graphic designer"
+   },
+   {
+      "name":"Design : UI \/ UX designer"
+   },
+   {
+      "name":"Special : Data science"
+   },
+   {
+      "name":"Special : AI \/ ML"
+   },
+   {
+      "name":"Special : Blockchain"
+   },
+   {
+      "name":"HR : Talent acquisition"
+   },
+   {
+      "name":"HR : Generalist"
+   },
+   {
+      "name":"HR : Leadership"
+   },
+   {
+      "name":"Finance : Taxation"
+   },
+   {
+      "name":"Finance : Treasury"
+   }
 ]
