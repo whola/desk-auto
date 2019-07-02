@@ -1,218 +1,173 @@
 [
-   {
-      "name":"Business : Analyst"
-   },
-   {
-      "name":"Business : Consultant \/ Strategist"
-   },
-   {
-      "name":"Business : Category management"
-   },
-   {
-      "name":"Business : Finance"
-   },
-   {
-      "name":"Business : Business Development"
-   },
-   {
-      "name":"Design : Graphic designer"
-   },
-   {
-      "name":"Design : UI \/ UX designer"
-   },
-   {
-      "name":"Finance : Taxation"
-   },
-   {
-      "name":"Finance : Treasury"
-   },
-   {
-      "name":"HR : Talent acquisition"
-   },
-   {
-      "name":"HR : Generalist"
-   },
-   {
-      "name":"HR : Leadership"
-   },
-   {
-      "name":"Marketing : Digital \/ SMM"
-   },
-   {
-      "name":"Marketing : Offline"
-   },
-   {
-      "name":"Marketing : Generalist"
-   },
-   {
-      "name":"Marketing : Leadership"
-   },
-   {
-      "name":"Marketing : Sales \/ BD"
-   },
-   {
-      "name":"Operations : Supply chain"
-   },
-   {
-      "name":"Operations : Cusomer experience"
-   },
-   {
-      "name":"Operations : Process excellence"
-   },
-   {
-      "name":"Operations : Generalist"
-   },
-   {
-      "name":"Operations : Project management"
-   },
-   {
-      "name":"Operations : Leadership"
-   },
-   {
-      "name":"Product : Manager"
-   },
-   {
-      "name":"Product : Analyst"
-   },
-   {
-      "name":"Special : Data science"
-   },
-   {
-      "name":"Special : AI \/ ML"
-   },
-   {
-      "name":"Special : Blockchain"
-   },
-   {
-      "name":"Technology : Backend"
-   },
-   {
-      "name":"Technology : Frontend"
-   },
-   {
-      "name":"Technology : Full stack"
-   },
-   {
-      "name":"Technology : iOs"
-   },
-   {
-      "name":"Technology : Android"
-   },
-   {
-      "name":"Technology : QA"
-   },
-   {
-      "name":"Technology : Leadership"
-   },
-   {
-      "name":"Technology : Data science"
-   },
-   {
-      "name":"Technology : Mobile Development"
-   },
-   {
-      "name":"Technology : Data Engineering"
-   },
-   {
-      "name":"Technology : Backend"
-   },
-   {
-      "name":"Technology : Frontend"
-   },
-   {
-      "name":"Technology : Full stack"
-   },
-   {
-      "name":"Technology : iOs"
-   },
-   {
-      "name":"Technology : Android"
-   },
-   {
-      "name":"Technology : Quality"
-   },
-   {
-      "name":"Technology : Leadership"
-   },
-   {
-      "name":"Technology : AI / ML"
-   },
-   {
-      "name":"Product : Manager"
-   },
-   {
-      "name":"Product : Analyst"
-   },
-   {
-      "name":"Business : Analyst"
-   },
-   {
-      "name":"Business : Consultant \/ Strategist"
-   },
-   {
-      "name":"Business : Category management"
-   },
-   {
-      "name":"Business : Finance"
-   },
-   {
-      "name":"Operations : Supply chain"
-   },
-   {
-      "name":"Operations : Cusomer experience"
-   },
-   {
-      "name":"Operations : Process excellence"
-   },
-   {
-      "name":"Operations : Generalist"
-   },
-   {
-      "name":"Operations : Leadership"
-   },
-   {
-      "name":"Marketing : Digital \/ SMM"
-   },
-   {
-      "name":"Marketing : Offline"
-   },
-   {
-      "name":"Marketing : Generalist"
-   },
-   {
-      "name":"Marketing : Leadership"
-   },
-   {
-      "name":"Marketing : Sales \/ BD"
-   },
-   {
-      "name":"Design : Graphic designer"
-   },
-   {
-      "name":"Design : UI \/ UX designer"
-   },
-   {
-      "name":"Special : Data science"
-   },
-   {
-      "name":"Special : AI \/ ML"
-   },
-   {
-      "name":"Special : Blockchain"
-   },
-   {
-      "name":"HR : Talent acquisition"
-   },
-   {
-      "name":"HR : Generalist"
-   },
-   {
-      "name":"HR : Leadership"
-   },
-   {
-      "name":"Finance : Taxation"
-   },
-   {
-      "name":"Finance : Treasury"
-   }
+  {
+    "name": "Business : Analyst"
+  },
+  {
+    "name": "Business : Category management"
+  },
+  {
+    "name": "Business : Consultant / Strategist"
+  },
+  {
+    "name": "Business : Customer success"
+  },
+  {
+    "name": "Business : Finance"
+  },
+  {
+    "name": "Business : Inside sales"
+  },
+  {
+    "name": "Business : Other"
+  },
+  {
+    "name": "Business : Sales / BD"
+  },
+  {
+    "name": "Business : Stock broking"
+  },
+  {
+    "name": "Business : Trade surveillance"
+  },
+  {
+    "name": "Business : Wealth management"
+  },
+  {
+    "name": "Design : Graphic designer"
+  },
+  {
+    "name": "Design : Other"
+  },
+  {
+    "name": "Design : UI / UX designer"
+  },
+  {
+    "name": "Finance : Accounting"
+  },
+  {
+    "name": "Finance : Compliance"
+  },
+  {
+    "name": "Finance : Finance Operations"
+  },
+  {
+    "name": "Finance : Taxation"
+  },
+  {
+    "name": "Finance : Treasury"
+  },
+  {
+    "name": "HR : Generalist"
+  },
+  {
+    "name": "HR : Leadership"
+  },
+  {
+    "name": "HR : Talent acquisition"
+  },
+  {
+    "name": "Marketing : Brand"
+  },
+  {
+    "name": "Marketing : Content"
+  },
+  {
+    "name": "Marketing : Digital / SMM"
+  },
+  {
+    "name": "Marketing : Generalist"
+  },
+  {
+    "name": "Marketing : Growth"
+  },
+  {
+    "name": "Marketing : Other"
+  },
+  {
+    "name": "Operations : Customer experience"
+  },
+  {
+    "name": "Operations : Generalist"
+  },
+  {
+    "name": "Operations : Leadership"
+  },
+  {
+    "name": "Operations : Operations executive"
+  },
+  {
+    "name": "Operations : Operations manager"
+  },
+  {
+    "name": "Operations : Other"
+  },
+  {
+    "name": "Operations : Process excellence"
+  },
+  {
+    "name": "Operations : Project management"
+  },
+  {
+    "name": "Operations : Supply chain"
+  },
+  {
+    "name": "Other"
+  },
+  {
+    "name": "Product : Analyst"
+  },
+  {
+    "name": "Product : Manager"
+  },
+  {
+    "name": "Technology : AI / ML"
+  },
+  {
+    "name": "Technology : Android"
+  },
+  {
+    "name": "Technology : Backend"
+  },
+  {
+    "name": "Technology : Big data"
+  },
+  {
+    "name": "Technology : Blockchain"
+  },
+  {
+    "name": "Technology : Data engineering"
+  },
+  {
+    "name": "Technology : Data science"
+  },
+  {
+    "name": "Technology : DevOps"
+  },
+  {
+    "name": "Technology : Frontend"
+  },
+  {
+    "name": "Technology : Full stack"
+  },
+  {
+    "name": "Technology : iOs"
+  },
+  {
+    "name": "Technology : Leadership"
+  },
+  {
+    "name": "Technology : Mobile development"
+  },
+  {
+    "name": "Technology : Other"
+  },
+  {
+    "name": "Technology : QA"
+  },
+  {
+    "name": "Technology : React native developer"
+  },
+  {
+    "name": "Technology : Scrum Master"
+  }
 ]
